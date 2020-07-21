@@ -2,7 +2,7 @@
 
 ### Practice languages at anytime.
 
-<p align="center"><img src="https://talk4free.live/static/media/logo10x10.e15bb8fb.png" width="300" height="300" alt="icon" align="middle"></p>
+<p align="center"><img src="https://github.com/jorgezafra94/talk4free-1/blob/master/logo192.png" width="300" height="300" alt="icon" align="middle"></p>
 
 **Talk4Free** is created to talk to people around the world in many languages such as English, Mandarin, Spanish, French, German, Italian, Portuguese, Arabic, Russian, Japanese, among others.
 
